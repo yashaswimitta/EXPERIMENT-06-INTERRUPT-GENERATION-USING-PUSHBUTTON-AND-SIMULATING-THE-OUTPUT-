@@ -207,10 +207,12 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  ![pm 6-1](https://github.com/yashaswimitta/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/94619247/038fcc81-5e3f-45d1-89c6-ae68fa3fea4b)
 
- 
+![output](https://github.com/yashaswimitta/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/blob/main/pm%206-2.jpg)
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ 
+ ![output](https://github.com/yashaswimitta/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/blob/main/pm%206-3.jpg)
  
  
 ## Result :
